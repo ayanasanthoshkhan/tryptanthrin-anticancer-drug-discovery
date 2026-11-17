@@ -1,0 +1,104 @@
+
+TRYPTANTHRIN ANTICANCER PROJECT
+MEMBER 4 - FINAL BIOACTIVITY DATA HANDOVER
+
+==================================================
+1. DATA SOURCES
+==================================================
+
+Two bioactivity sources were used:
+1. ChEMBL
+2. BindingDB
+
+Five protein targets:
+- IDO1
+- TDO2
+- VEGFR2
+- EGFR
+- PI3Kalpha
+
+==================================================
+2. BINDINGDB DATASET
+==================================================
+
+Total CSV files: 40
+Primary datasets: 20
+Secondary datasets: 20
+Total records across all files: 57,106
+
+Four endpoints were maintained separately:
+- IC50
+- Ki
+- Kd
+- EC50
+
+All datasets were checked for Canonical SMILES.
+
+==================================================
+3. GOOGLE DRIVE LOCATIONS
+==================================================
+
+BindingDB Primary:
+03_Cleaned_Datasets/BindingDB_Primary/
+
+BindingDB Secondary:
+03_Cleaned_Datasets/BindingDB_Secondary/
+
+Quality Reports:
+04_Quality_Reports/
+
+Important reports:
+- BindingDB_Quality_Report.csv
+- BindingDB_Curation_Summary.txt
+- BindingDB_Handover_Inventory.csv
+- bioactivity_quality_report.csv
+- outlier_analysis_report.csv
+
+==================================================
+4. CURATION PROCEDURE
+==================================================
+
+- Target identification using UniProt IDs.
+- SMILES validation using RDKit.
+- Canonical SMILES generation.
+- Invalid SMILES removal.
+- Positive numeric activity value filtering.
+- Separate endpoint preparation.
+- Primary and secondary target-name classification.
+- Duplicate and conflicting measurement investigation.
+- Quality report preparation.
+
+==================================================
+5. RECOMMENDATIONS FOR MEMBER 5 (AYANA)
+==================================================
+
+1. Begin with the primary datasets.
+2. Keep IC50, Ki, Kd and EC50 separate.
+3. Investigate conflicting measurements.
+4. Do not blindly average duplicate measurements.
+5. Consider compound-grouped train/test splitting
+   using canonical SMILES.
+6. Check target variants and assay differences.
+7. Document every additional filtering decision.
+8. Harmonize ChEMBL and BindingDB before combining.
+
+==================================================
+6. IMPORTANT LIMITATIONS
+==================================================
+
+Primary/secondary classification is based on target names.
+It does not guarantee wild-type protein status or assay
+comparability.
+
+Some BindingDB records lack DOI information.
+Assay method information is not consistently available.
+
+Different activity endpoints should not be treated as
+interchangeable.
+
+Canonical SMILES do not resolve every salt, tautomer,
+or stereochemistry-related difference.
+
+==================================================
+END OF MEMBER 4 HANDOVER
+==================================================

@@ -1,0 +1,28 @@
+
+BINDINGDB CURATION SUMMARY
+Tryptanthrin Anticancer Project - Member 4
+
+Targets:
+IDO1 (P14902)
+TDO2 (P48775)
+VEGFR2 (P35968)
+EGFR (P00533)
+PI3Kalpha (P42336)
+
+Source: BindingDB
+
+Curation:
+- Exact UniProt target filtering
+- RDKit SMILES validation
+- Canonical SMILES generation
+- Positive numeric activity values retained
+- IC50, Ki, Kd and EC50 kept separately
+- Primary and secondary datasets classified by target name
+- Repeated compounds and conflicting measurements investigated
+- Original measurement metadata preserved
+
+Important:
+- Conflicting measurements were not automatically averaged.
+- Target-name classification does not guarantee assay equivalence.
+- BindingDB and ChEMBL require harmonization before merging.
+- Member 5 should investigate duplicate measurements before modelling.
