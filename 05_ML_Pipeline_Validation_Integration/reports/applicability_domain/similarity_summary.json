@@ -1,0 +1,82 @@
+{
+  "scope": "Molecular fingerprint nearest-neighbor similarity, NOT predictive uncertainty calibration",
+  "fingerprint": "RDKit Morgan radius 2, 2048 bits (ECFP4-like)",
+  "reference": "TRAIN split only for each target (as saved by Step 3/5)",
+  "thresholds_exploratory_only": {
+    "high_similarity": ">= 0.6",
+    "moderate_similarity": ">= 0.4 and < 0.6",
+    "low_similarity_review": "< 0.4"
+  },
+  "warnings": [
+    "Thresholds are heuristic and have not been calibrated against prediction errors.",
+    "Similarity cannot establish that a model predicts the correct activity.",
+    "Exact fingerprint match is not necessarily identical chemical structure (hash collisions or stereochemistry).",
+    "Training/reference SMILES may include salts; no additional standardization performed.",
+    "No pIC50 predictions are generated in this step.",
+    "Analogs flagged by AD should not be automatically deleted."
+  ],
+  "per_target": {
+    "EGFR": {
+      "training_molecules": 7602,
+      "validation_molecules_excluded_from_reference": 1950,
+      "test_molecules_excluded_from_reference": 1282,
+      "analog_count": 11355,
+      "mean_nearest_training_tanimoto": 0.3093,
+      "exact_fingerprint_matches": 0,
+      "similarity_band_counts": {
+        "MODERATE_SIMILARITY": 349,
+        "LOW_SIMILARITY_REVIEW": 11006
+      }
+    },
+    "VEGFR2": {
+      "training_molecules": 6917,
+      "validation_molecules_excluded_from_reference": 1591,
+      "test_molecules_excluded_from_reference": 1254,
+      "analog_count": 11355,
+      "mean_nearest_training_tanimoto": 0.292,
+      "exact_fingerprint_matches": 0,
+      "similarity_band_counts": {
+        "LOW_SIMILARITY_REVIEW": 11260,
+        "MODERATE_SIMILARITY": 95
+      }
+    },
+    "PI3Kalpha": {
+      "training_molecules": 4489,
+      "validation_molecules_excluded_from_reference": 1006,
+      "test_molecules_excluded_from_reference": 970,
+      "analog_count": 11355,
+      "mean_nearest_training_tanimoto": 0.3002,
+      "exact_fingerprint_matches": 0,
+      "similarity_band_counts": {
+        "LOW_SIMILARITY_REVIEW": 11082,
+        "MODERATE_SIMILARITY": 273
+      }
+    },
+    "IDO1": {
+      "training_molecules": 2761,
+      "validation_molecules_excluded_from_reference": 423,
+      "test_molecules_excluded_from_reference": 435,
+      "analog_count": 11355,
+      "mean_nearest_training_tanimoto": 0.4194,
+      "exact_fingerprint_matches": 4,
+      "similarity_band_counts": {
+        "HIGH_SIMILARITY": 225,
+        "MODERATE_SIMILARITY": 6141,
+        "LOW_SIMILARITY_REVIEW": 4989
+      }
+    },
+    "TDO2": {
+      "training_molecules": 663,
+      "validation_molecules_excluded_from_reference": 142,
+      "test_molecules_excluded_from_reference": 164,
+      "analog_count": 11355,
+      "mean_nearest_training_tanimoto": 0.5098,
+      "exact_fingerprint_matches": 20,
+      "similarity_band_counts": {
+        "HIGH_SIMILARITY": 1646,
+        "MODERATE_SIMILARITY": 9005,
+        "LOW_SIMILARITY_REVIEW": 704
+      }
+    }
+  }
+}

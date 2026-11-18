@@ -1,0 +1,6 @@
+Target,Training_molecules,Analogs,Mean_nearest_Tanimoto,High_similarity,Moderate_similarity,Low_similarity_review,Exact_fingerprint_matches
+EGFR,7602,11355,0.3093,0,349,11006,0
+VEGFR2,6917,11355,0.292,0,95,11260,0
+PI3Kalpha,4489,11355,0.3002,0,273,11082,0
+IDO1,2761,11355,0.4194,225,6141,4989,4
+TDO2,663,11355,0.5098,1646,9005,704,20

@@ -1,0 +1,16 @@
+{
+  "models": "Existing trained Step 3\u20135 RF and XGBoost models; NO new training",
+  "fingerprint": "RDKit Morgan radius 2, 2048 bits, SMILES as provided",
+  "source": "data\\analogs\\filtered_analog_library.csv",
+  "applicability": "Step 6 nearest TRAIN-only Tanimoto similarity",
+  "labels": "Stored median individual-measurement pIC50 values",
+  "warning": [
+    "No experimental activities were measured for generated analogs by this script.",
+    "Low similarity indicates extrapolation; do NOT promote as a validated hit.",
+    "Similarity tiers are heuristic and NOT calibrated uncertainty.",
+    "The models are trained across broad chemical space; predictions are not target-engagement validation.",
+    "Both model predictions are reported; no model chosen using test results.",
+    "Training label-range flags do not capture model extrapolation fully.",
+    "Further chemical standardization, analogue overlap checks, and evaluation of stability are needed."
+  ]
+}

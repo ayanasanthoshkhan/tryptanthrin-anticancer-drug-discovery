@@ -1,0 +1,6 @@
+Target,Eligible_rows_step8,Nonexact_pool_reviewed,Exact_training_matches_skipped,Selected,Mean_pairwise_Tanimoto,Max_pairwise_Tanimoto,Parent_analog_id,RETAIN_selected,FLAG_selected,Published_reference_selected
+EGFR,339,339,0,10,0.444,0.7419,TRY_14d107e8e7b92eda,10,0,1
+VEGFR2,81,81,0,10,0.4294,0.7407,TRY_14d107e8e7b92eda,10,0,1
+PI3Kalpha,197,197,0,10,0.4919,0.7455,TRY_14d107e8e7b92eda,10,0,0
+IDO1,5535,500,4,10,0.5328,0.7447,TRY_14d107e8e7b92eda,10,0,2
+TDO2,10559,500,14,10,0.6135,0.7333,TRY_14d107e8e7b92eda,10,0,1

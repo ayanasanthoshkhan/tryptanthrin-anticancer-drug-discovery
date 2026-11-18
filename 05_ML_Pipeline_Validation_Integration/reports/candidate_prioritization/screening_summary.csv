@@ -1,0 +1,6 @@
+Target,All_predictions,High_similarity,Moderate_similarity,Low_similarity,Eligible_for_screening,Eligible_RETAIN,Eligible_FLAG,Exploratory_or_review,Top_file
+EGFR,11355,0,349,11006,339,213,126,11016,EGFR_top_25.csv
+VEGFR2,11355,0,95,11260,81,74,7,11274,VEGFR2_top_25.csv
+PI3Kalpha,11355,0,273,11082,197,178,19,11158,PI3Kalpha_top_25.csv
+IDO1,11355,225,6141,4989,5535,3999,1536,5820,IDO1_top_25.csv
+TDO2,11355,1646,9005,704,10559,7737,2822,796,TDO2_top_25.csv

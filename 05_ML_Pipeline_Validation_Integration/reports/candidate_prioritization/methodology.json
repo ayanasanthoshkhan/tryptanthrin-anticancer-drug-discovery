@@ -1,0 +1,27 @@
+{
+  "purpose": "Computational candidate prioritization, not proof of anticancer activity",
+  "source": "reports\\analog_predictions\\all_target_predictions.csv",
+  "per_target_only": "Do not interpret numerical pIC50 values as cross-target selectivity or clinical potency",
+  "consensus": "Arithmetic mean of RF and XGBoost pIC50 predictions; not an ensemble with validated calibration",
+  "screen_eligibility": [
+    "At least MODERATE_SIMILARITY_SCREEN",
+    "Absolute RF-XGB difference <= 0.5 (heuristic)",
+    "Neither prediction outside observed training label range"
+  ],
+  "rank_order": [
+    "Drug-likeness Decision RETAIN before FLAG",
+    "HIGH before MODERATE similarity",
+    "Higher RF/XGB mean predicted pIC50",
+    "Lower model disagreement",
+    "Higher QED",
+    "Lower SA score"
+  ],
+  "warning": [
+    "Similarity cutoffs and model agreement cutoffs are arbitrary review heuristics, not validated probabilities",
+    "Even screened candidates may be out of domain; compare to training-neighbor similarity distributions",
+    "SA and QED are secondary annotations, not synthetic feasibility or toxicity guarantees",
+    "No docking, experimental testing or retrosynthesis performed",
+    "Review structural-alert flags and prioritize chemical diversity before wet-lab or docking selection",
+    "Do not use repeated test-set comparisons to tune the selection rules"
+  ]
+}

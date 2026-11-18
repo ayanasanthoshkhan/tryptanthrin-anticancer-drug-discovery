@@ -1,0 +1,28 @@
+{
+  "step": 9,
+  "software": "RDKit 2026.09.2",
+  "input": "Step 8 eligible candidates + original filtered library",
+  "parent_analog_id": "TRY_14d107e8e7b92eda",
+  "parent_smiles": "O=C1c2ccccc2-n2c1nc1ccccc1c2=O",
+  "fingerprints": "Morgan/ECFP4, radius 2, 2048-bit, Tanimoto similarity",
+  "selection": "Top-ranked Step 8 screened candidates, inspect first 500 nonexact rows; greedy top-rank-first pairwise similarity <= 0.75",
+  "target_shortlist_size": 10,
+  "exact_training_match": "Nearest training fingerprint similarity >= 0.999999 excluded from prospective shortlist; fingerprint identity is NOT proof of identical chemical identity or novelty",
+  "known_compounds": "Published_reference and other categories retained as labels. An analog without exact training fingerprint match is NOT necessarily novel.",
+  "parent_comparison": "Structural similarity only; parent activity NOT inferred; no potency improvement claimed",
+  "unverified": [
+    "No docking",
+    "No experimental target inhibition",
+    "No validated confidence intervals",
+    "No AiZynthFinder retrosynthesis",
+    "No structure-standardization guarantee",
+    "No independent prospective validation"
+  ],
+  "notes": [
+    "Top-ranked greedy diversity triage, not a globally optimized medoid set",
+    "Results should be manually inspected for chemical feasibility and assay scope",
+    "Cross-target pIC50 model outputs are not proven selectivity or comparable potency",
+    "Retain FLAG, PAINS and Brenk information for medicinal-chemistry review",
+    "Scaffold split and training-neighbor similarity are initial safeguards, not calibrated applicability domain"
+  ]
+}
