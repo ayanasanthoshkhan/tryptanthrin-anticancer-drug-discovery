@@ -1,0 +1,4 @@
+Analog_ID,vina_best_affinity_kcal_mol,ligand_heavy_atoms,residues_within_4A,atom_pairs_within_4A,atom_pairs_below_2A,min_interatomic_distance_A,preliminary_pose_quality_flag
+TRY_6db5e7a7802259ab,-10.29,28,15,62,0,3.226,NO_LT_2A_CONTACTS
+TRY_c88335488290afb4,-10.261,28,13,60,0,2.985,NO_LT_2A_CONTACTS
+TRY_c6b27d68ce6ec718,-10.175,29,14,59,0,2.745,NO_LT_2A_CONTACTS
