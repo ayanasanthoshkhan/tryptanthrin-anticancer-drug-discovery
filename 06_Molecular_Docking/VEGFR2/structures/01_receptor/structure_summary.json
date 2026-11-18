@@ -1,0 +1,10 @@
+{
+  "PDB_ID": "3VHE",
+  "title": "Crystal structure of human VEGFR2 kinase domain with a novel pyrrolopyrimidine inhibitor.",
+  "method": "X-RAY DIFFRACTION",
+  "resolution": "1.55",
+  "chain": "A",
+  "ligand": "42Q",
+  "ligand_resnum": 1170,
+  "gaps": "[(939, 994), (1062, 1065)]"
+}

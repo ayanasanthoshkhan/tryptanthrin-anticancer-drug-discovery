@@ -1,0 +1,180 @@
+Analog_ID,Pose,Residue,ResName,ResNum,Chain,Receptor_atom,Ligand_atom,Distance_A,Interaction,Note
+TRY_c8cdc786b96d72b0,Model 1,ALA866:A,ALA,866,A,CB,O0,3.47,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,ALA866:A,ALA,866,A,CB,C1,3.68,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,ALA866:A,ALA,866,A,CB,C2,3.98,hydrophobic contact,C...C 3.98 A (distance criterion only)
+TRY_c8cdc786b96d72b0,Model 1,ALA866:A,ALA,866,A,CB,C3,4.15,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,ALA866:A,ALA,866,A,CB,C15,4.49,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,ASP1046:A,ASP,1046,A,O,C7,3.59,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,ASP1046:A,ASP,1046,A,O,C6,3.61,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,ASP1046:A,ASP,1046,A,N,C7,3.78,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,ASP1046:A,ASP,1046,A,C,C6,4.04,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,ASP1046:A,ASP,1046,A,N,C6,4.05,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,ASP1046:A,ASP,1046,A,C,C7,4.21,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,ASP1046:A,ASP,1046,A,O,N8,4.29,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS1045:A,CYS,1045,A,CB,C6,3.78,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS1045:A,CYS,1045,A,CB,C7,3.87,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS1045:A,CYS,1045,A,SG,C6,4.19,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS1045:A,CYS,1045,A,CA,C7,4.39,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS1045:A,CYS,1045,A,CB,N5,4.47,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS919:A,CYS,919,A,N,O0,3.06,hydrogen bond,"D...A 3.06 A, best D-H...A angle 156 deg"
+TRY_c8cdc786b96d72b0,Model 1,CYS919:A,CYS,919,A,O,N16,3.08,polar contact,"D...A 3.08 A, H-bond angle criterion not met or no H available"
+TRY_c8cdc786b96d72b0,Model 1,CYS919:A,CYS,919,A,O,C18,3.37,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS919:A,CYS,919,A,O,C17,3.54,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS919:A,CYS,919,A,CB,O0,3.83,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS919:A,CYS,919,A,C,N16,3.92,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS919:A,CYS,919,A,CA,O0,3.99,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS919:A,CYS,919,A,N,C1,3.99,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS919:A,CYS,919,A,O,C15,3.99,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS919:A,CYS,919,A,N,N16,4.04,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS919:A,CYS,919,A,SG,O0,4.13,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS919:A,CYS,919,A,C,C18,4.37,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS919:A,CYS,919,A,CB,C1,4.38,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS919:A,CYS,919,A,O,O0,4.4,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS919:A,CYS,919,A,CA,N16,4.42,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS919:A,CYS,919,A,N,C15,4.43,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,CYS919:A,CYS,919,A,O,C19,4.47,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLU885:A,GLU,885,A,OE2,N8,3.16,polar contact,"D...A 3.16 A, H-bond angle criterion not met or no H available"
+TRY_c8cdc786b96d72b0,Model 1,GLU885:A,GLU,885,A,OE2,C9,3.83,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLU885:A,GLU,885,A,OE2,C7,4.06,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLU885:A,GLU,885,A,CD,N8,4.32,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLU917:A,GLU,917,A,O,O0,3.36,polar contact,"D...A 3.36 A, H-bond angle criterion not met or no H available"
+TRY_c8cdc786b96d72b0,Model 1,GLU917:A,GLU,917,A,C,O0,4.27,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLU917:A,GLU,917,A,O,C1,4.5,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLY841:A,GLY,841,A,N,O25,4.48,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLY922:A,GLY,922,A,N,C18,3.62,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLY922:A,GLY,922,A,CA,C17,3.64,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLY922:A,GLY,922,A,CA,C18,3.7,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLY922:A,GLY,922,A,CA,C23,3.71,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLY922:A,GLY,922,A,CA,C19,3.83,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLY922:A,GLY,922,A,CA,C22,3.85,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLY922:A,GLY,922,A,N,C19,3.86,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLY922:A,GLY,922,A,CA,C20,3.9,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLY922:A,GLY,922,A,N,C17,3.97,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLY922:A,GLY,922,A,CA,N16,4.26,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLY922:A,GLY,922,A,N,C20,4.38,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLY922:A,GLY,922,A,CA,C24,4.43,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLY922:A,GLY,922,A,N,N16,4.44,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,GLY922:A,GLY,922,A,N,C23,4.48,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU1035:A,LEU,1035,A,CD1,C3,3.36,hydrophobic contact,C...C 3.36 A (distance criterion only)
+TRY_c8cdc786b96d72b0,Model 1,LEU1035:A,LEU,1035,A,CD1,C2,3.39,hydrophobic contact,C...C 3.39 A (distance criterion only)
+TRY_c8cdc786b96d72b0,Model 1,LEU1035:A,LEU,1035,A,CD1,C1,3.73,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU1035:A,LEU,1035,A,CD2,C13,3.75,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU1035:A,LEU,1035,A,CD2,N14,3.79,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU1035:A,LEU,1035,A,CD1,C4,3.9,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU1035:A,LEU,1035,A,CD1,C13,3.97,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU1035:A,LEU,1035,A,CD1,O0,4.0,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU1035:A,LEU,1035,A,CD2,C2,4.01,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU1035:A,LEU,1035,A,CD2,C15,4.06,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU1035:A,LEU,1035,A,CD2,C12,4.18,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU1035:A,LEU,1035,A,CD2,C1,4.21,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU1035:A,LEU,1035,A,CD2,C24,4.25,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU1035:A,LEU,1035,A,CG,C2,4.33,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU1035:A,LEU,1035,A,CD1,C11,4.39,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU1035:A,LEU,1035,A,CD1,C12,4.44,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU1035:A,LEU,1035,A,CD1,C15,4.49,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU1035:A,LEU,1035,A,CG,C13,4.5,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,O,C22,3.38,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,O,O25,3.38,polar contact,"D...A 3.38 A, H-bond angle criterion not met or no H available"
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CD2,C18,3.54,hydrophobic contact,C...C 3.54 A (distance criterion only)
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CD2,C19,3.58,hydrophobic contact,C...C 3.58 A (distance criterion only)
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CB,C23,3.6,hydrophobic contact,C...C 3.60 A (distance criterion only)
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CD2,C17,3.66,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CB,C24,3.66,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CD2,C20,3.73,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CD1,N16,3.77,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CB,C22,3.78,hydrophobic contact,C...C 3.78 A (distance criterion only)
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CD2,C23,3.81,hydrophobic contact,C...C 3.81 A (distance criterion only)
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CB,O25,3.83,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CD2,C22,3.85,hydrophobic contact,C...C 3.85 A (distance criterion only)
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CD1,C17,3.87,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,C,O25,3.87,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CD1,C15,3.89,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,O,C24,4.04,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,O,C23,4.06,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CG,C23,4.07,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CG,C17,4.11,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,C,C22,4.12,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CD1,C23,4.15,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CD1,N14,4.16,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CB,C17,4.16,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,O,C20,4.2,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CA,C22,4.21,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CB,N14,4.22,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,O,F21,4.28,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CD1,C24,4.31,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CD2,N16,4.36,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CG,C22,4.38,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,C,C24,4.42,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CD1,C18,4.43,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CD2,F21,4.44,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CG,C24,4.44,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CG,C18,4.46,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CB,C20,4.46,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CA,O25,4.48,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU840:A,LEU,840,A,CA,C23,4.49,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LEU889:A,LEU,889,A,CD1,N8,4.1,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LYS868:A,LYS,868,A,CD,C9,3.5,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LYS868:A,LYS,868,A,CB,C9,3.9,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LYS868:A,LYS,868,A,CD,N8,4.03,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LYS868:A,LYS,868,A,CG,C9,4.33,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LYS868:A,LYS,868,A,NZ,N8,4.38,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LYS920:A,LYS,920,A,O,C18,3.65,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LYS920:A,LYS,920,A,O,C19,3.73,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,LYS920:A,LYS,920,A,C,C18,4.11,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE1047:A,PHE,1047,A,CZ,O25,3.41,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE1047:A,PHE,1047,A,CZ,C12,3.47,hydrophobic contact,C...C 3.47 A (distance criterion only)
+TRY_c8cdc786b96d72b0,Model 1,PHE1047:A,PHE,1047,A,CE1,O25,3.48,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE1047:A,PHE,1047,A,CE1,C12,3.61,hydrophobic contact,C...C 3.61 A (distance criterion only)
+TRY_c8cdc786b96d72b0,Model 1,PHE1047:A,PHE,1047,A,CE2,C12,3.94,hydrophobic contact,C...C 3.94 A (distance criterion only)
+TRY_c8cdc786b96d72b0,Model 1,PHE1047:A,PHE,1047,A,CZ,C11,4.14,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE1047:A,PHE,1047,A,CD1,C12,4.19,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE1047:A,PHE,1047,A,CE2,C11,4.21,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE1047:A,PHE,1047,A,CE1,C11,4.24,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE1047:A,PHE,1047,A,CZ,C24,4.24,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE1047:A,PHE,1047,A,CZ,C13,4.3,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE1047:A,PHE,1047,A,CD2,C11,4.37,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE1047:A,PHE,1047,A,CD1,C11,4.4,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE1047:A,PHE,1047,A,N,C6,4.45,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE1047:A,PHE,1047,A,CG,C11,4.47,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE1047:A,PHE,1047,A,CD2,C12,4.47,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE1047:A,PHE,1047,A,ring,ring,4.95,possible aromatic interaction,"ring centroid distance 4.95 A (distance only, geometry not classified)"
+TRY_c8cdc786b96d72b0,Model 1,PHE918:A,PHE,918,A,CE1,C18,3.48,hydrophobic contact,C...C 3.48 A (distance criterion only)
+TRY_c8cdc786b96d72b0,Model 1,PHE918:A,PHE,918,A,CE1,N16,3.54,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE918:A,PHE,918,A,CA,O0,3.65,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE918:A,PHE,918,A,CD1,N16,3.73,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE918:A,PHE,918,A,C,O0,3.82,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE918:A,PHE,918,A,CZ,C18,3.87,hydrophobic contact,C...C 3.87 A (distance criterion only)
+TRY_c8cdc786b96d72b0,Model 1,PHE918:A,PHE,918,A,CE1,C17,3.88,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE918:A,PHE,918,A,CD1,O0,4.16,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE918:A,PHE,918,A,N,O0,4.44,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE918:A,PHE,918,A,CD1,C18,4.44,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE918:A,PHE,918,A,CD1,C15,4.47,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE918:A,PHE,918,A,CE1,C19,4.49,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE921:A,PHE,921,A,C,C19,4.42,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,PHE921:A,PHE,921,A,C,C18,4.49,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL848:A,VAL,848,A,CG2,C11,3.55,hydrophobic contact,C...C 3.55 A (distance criterion only)
+TRY_c8cdc786b96d72b0,Model 1,VAL848:A,VAL,848,A,CG2,C12,3.76,hydrophobic contact,C...C 3.76 A (distance criterion only)
+TRY_c8cdc786b96d72b0,Model 1,VAL848:A,VAL,848,A,CG1,C12,3.91,hydrophobic contact,C...C 3.91 A (distance criterion only)
+TRY_c8cdc786b96d72b0,Model 1,VAL848:A,VAL,848,A,CG1,C13,3.95,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL848:A,VAL,848,A,CB,C12,4.1,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL848:A,VAL,848,A,CG1,C11,4.13,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL848:A,VAL,848,A,CG1,C2,4.2,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL848:A,VAL,848,A,CG2,C4,4.28,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL848:A,VAL,848,A,CB,C11,4.3,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL848:A,VAL,848,A,CG1,C4,4.42,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL848:A,VAL,848,A,CG1,C3,4.44,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL848:A,VAL,848,A,CG1,N14,4.46,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL899:A,VAL,899,A,CG2,C10,3.88,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL899:A,VAL,899,A,CG1,C7,4.09,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL899:A,VAL,899,A,CG2,C7,4.12,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL899:A,VAL,899,A,CG2,N5,4.18,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL899:A,VAL,899,A,CB,C7,4.4,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL899:A,VAL,899,A,CG2,N8,4.41,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL899:A,VAL,899,A,CG1,N8,4.45,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL916:A,VAL,916,A,CG2,C10,3.28,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL916:A,VAL,916,A,CG1,C10,3.8,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL916:A,VAL,916,A,CG2,C3,3.86,hydrophobic contact,C...C 3.86 A (distance criterion only)
+TRY_c8cdc786b96d72b0,Model 1,VAL916:A,VAL,916,A,CG1,C9,3.96,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL916:A,VAL,916,A,CB,C10,4.12,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL916:A,VAL,916,A,CG2,N5,4.29,close contact,heavy-atom distance <= 4.5 A
+TRY_c8cdc786b96d72b0,Model 1,VAL916:A,VAL,916,A,CG2,C9,4.32,close contact,heavy-atom distance <= 4.5 A
