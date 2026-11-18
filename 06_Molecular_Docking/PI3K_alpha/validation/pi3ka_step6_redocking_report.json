@@ -1,0 +1,28 @@
+{
+  "target": "PI3Kalpha",
+  "pdb_id": "4JPS",
+  "reference_ligand": "1LT_alpelisib",
+  "vina_version": "1.2.7",
+  "meeko_version": "0.8.0",
+  "center_A": [
+    -1.319,
+    -9.513,
+    16.948
+  ],
+  "size_A": [
+    18.946,
+    19.659,
+    25.114
+  ],
+  "exhaustiveness": 32,
+  "n_poses_requested": 9,
+  "seed": 42,
+  "scoring_function": "vina",
+  "top_ranked_pose_rmsd_A": 0.6039,
+  "best_pose_rmsd_A": 0.6039,
+  "top_ranked_pass_2A": true,
+  "rmsd_definition": "Graph/symmetry-aware heavy-atom RMSD in fixed crystal coordinate frame; NO alignment",
+  "receptor_preparation_caveat": "10 incomplete/excess-bond residues excluded >20 \u00c5 outside the provisional box; original 85 pocket heavy atoms retained at 0.0 \u00c5 displacement (prior verification)",
+  "interpretation": "Redocking validation only, not validation of experimental anticancer potency",
+  "status": "provisional redocking assessment; inspect output and receptor assumptions before candidate docking"
+}
