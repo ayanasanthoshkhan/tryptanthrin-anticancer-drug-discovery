@@ -1,0 +1,15 @@
+{
+    "target": "TDO2",
+    "pdb_id": "8VTQ",
+    "chain": "D",
+    "reference_ligand": "A1ADX",
+    "vina_exhaustiveness": 32,
+    "number_of_poses": 9,
+    "random_seed": 42,
+    "best_docking_score_kcal_mol": -9.465,
+    "heavy_atom_rmsd_angstrom": 1.488,
+    "acceptance_threshold_angstrom": 2.0,
+    "validation_status": "PASSED",
+    "heme_retained": true,
+    "iron_retained": true
+}
