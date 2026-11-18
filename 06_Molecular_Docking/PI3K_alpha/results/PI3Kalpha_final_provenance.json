@@ -1,0 +1,61 @@
+{
+  "target": "PI3Kalpha",
+  "pdb_id": "4JPS",
+  "reference_ligand": "1LT",
+  "source_zip": "PI3Kalpha_Step9_Interaction_Analysis.zip",
+  "source_sha256": "2af896202a15c180d409023f6501d0f0b92c31b2b8f58fa5952bebe78025df02",
+  "source_step8_report": {
+    "target": "PI3Kalpha",
+    "pdb_id": "4JPS",
+    "reference": "1LT_alpelisib",
+    "input_redocking_RMSD_A": 0.6039,
+    "reference_pose_recovery_pass": true,
+    "receptor_sha256": "1bf47f23a914d0d2b0fd8a4423ff4a3c1499fa7c5b36ee6b7222cfe3e31301a4",
+    "shortlist_sha256": "6dbb9769afac2928d9e9114da517ec853846e92a7e9ad352f6346ed68d7ac01b",
+    "center_A": [
+      -1.319,
+      -9.513,
+      16.948
+    ],
+    "size_A": [
+      18.946,
+      19.659,
+      25.114
+    ],
+    "vina_version": "1.2.7",
+    "exhaustiveness": 32,
+    "num_modes": 9,
+    "seed": 42,
+    "scoring_function": "vina",
+    "ligands_requested": 10,
+    "ligands_docked_successfully": 10,
+    "receptor_preparation_caveat": "10 incomplete/excess-bond residues excluded >20 \u00c5 outside the provisional box; original 85 pocket heavy atoms retained at 0.0 \u00c5 displacement (prior verification)",
+    "limitation": "Docking scores are computational ranking signals, not experimental PI3Kalpha inhibition or cross-target affinities",
+    "next": "Validate top pose quality, analyze top-three contacts and integrate ML/ADMET/SA scores"
+  },
+  "source_step9_report": {
+    "target": "PI3Kalpha",
+    "receptor": "4JPS",
+    "reference_ligand": "1LT (alpelisib)",
+    "source_step8_redocking_rmsd_A": 0.6039,
+    "top3_by_vina_score": [
+      "TRY_6db5e7a7802259ab",
+      "TRY_c88335488290afb4",
+      "TRY_c6b27d68ce6ec718"
+    ],
+    "nearby_residue_cutoff_A": 4.0,
+    "polar_heteroatom_proximity_cutoff_A": 3.5,
+    "strong_clash_screen_A": 2.0,
+    "limitations": [
+      "Distances do not establish hydrogen bonding, hydrophobic interactions or inhibitory activity",
+      "Raw Vina scores are computational estimates; do not compare scores directly between different targets",
+      "Ten distant receptor residues were excluded during preparation",
+      "ADMET/SA and ML applicability need consideration in final candidate selection"
+    ],
+    "next": "Review top-three chemical contacts and poses; integrate with ML/ADMET; write final report"
+  },
+  "n_docked_analogs": 10,
+  "n_pose_reviewed": 3,
+  "ranking_rule": "ascending Vina score; no artificial composite score",
+  "end_to_end_reproduction_tested": false
+}

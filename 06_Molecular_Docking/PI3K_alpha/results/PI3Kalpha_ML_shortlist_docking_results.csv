@@ -1,0 +1,11 @@
+Analog_ID,Selection_rank,vina_best_affinity_kcal_mol,pose_count,docking_ok,docked_pdbqt,error
+TRY_c2155e898021da1c,1,-9.383,9,True,TRY_c2155e898021da1c_docked.pdbqt,
+TRY_c6b27d68ce6ec718,2,-10.175,9,True,TRY_c6b27d68ce6ec718_docked.pdbqt,
+TRY_40b0c0e6de99494a,3,-9.28,9,True,TRY_40b0c0e6de99494a_docked.pdbqt,
+TRY_f751442f427b1d4d,4,-9.17,8,True,TRY_f751442f427b1d4d_docked.pdbqt,
+TRY_6db5e7a7802259ab,5,-10.29,8,True,TRY_6db5e7a7802259ab_docked.pdbqt,
+TRY_6bf367653fed7969,6,-9.473,9,True,TRY_6bf367653fed7969_docked.pdbqt,
+TRY_c88335488290afb4,7,-10.261,9,True,TRY_c88335488290afb4_docked.pdbqt,
+TRY_e514ff1b3f600530,8,-8.91,9,True,TRY_e514ff1b3f600530_docked.pdbqt,
+TRY_bafc3535a3d34b71,9,-9.288,9,True,TRY_bafc3535a3d34b71_docked.pdbqt,
+TRY_783966fbcbaa4f5c,10,-8.716,9,True,TRY_783966fbcbaa4f5c_docked.pdbqt,

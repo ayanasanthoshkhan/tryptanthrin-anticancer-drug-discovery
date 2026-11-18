@@ -1,0 +1,4 @@
+Docking_rank_verified,Analog_ID,vina_best_affinity_kcal_mol,Consensus_pIC50,Pred_RF_pIC50,Pred_XGB_pIC50,Max_train_Tanimoto,QED,SA_score,residues_within_4A,atom_pairs_within_4A,atom_pairs_below_2A,min_interatomic_distance_A,ML_applicability_caution
+1,TRY_6db5e7a7802259ab,-10.29,6.29428,6.3638,6.22475,0.409836,0.5405059990042402,2.488289595944714,15,62,0,3.226,LOW similarity to training data (<0.50); ML activity uncertain
+2,TRY_c88335488290afb4,-10.261,6.25409,6.28987,6.21832,0.403226,0.5561207451784262,2.444439467739586,13,60,0,2.985,LOW similarity to training data (<0.50); ML activity uncertain
+3,TRY_c6b27d68ce6ec718,-10.175,6.36582,6.30865,6.42299,0.413333,0.5602743246258031,2.506605421984617,14,59,0,2.745,LOW similarity to training data (<0.50); ML activity uncertain
