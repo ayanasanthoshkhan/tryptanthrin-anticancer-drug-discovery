@@ -1,0 +1,7 @@
+Analog_ID,Interaction,Site,Ligand_atom,Element,Distance_A
+TRY_b79da49d45504836,H-bond,Ser167_OG,O,O,1.209
+TRY_62b0878d0fc0ffb9,Fe_coordination,Fe_HEM,H,H,2.878
+TRY_62b0878d0fc0ffb9,H-bond,Arg231_CZ,O,O,2.829
+TRY_62b0878d0fc0ffb9,H-bond,Ser167_OG,N,N,1.905
+TRY_487832cab4a8a96d,H-bond,Arg231_CZ,N,N,2.896
+TRY_487832cab4a8a96d,H-bond,Ser167_OG,N,N,1.874
