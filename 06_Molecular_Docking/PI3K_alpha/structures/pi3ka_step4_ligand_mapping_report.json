@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4JPS",
+  "target": "PI3Kalpha",
+  "reference_ligand": "1LT",
+  "ligand_common_name": "alpelisib",
+  "source": "4JPS PDB coordinates and 1LT official CCD chemistry",
+  "ccd_sdf_ideal_max_atom_order_deviation_A": 0.0,
+  "ccd_model_to_crystal_max_deviation_A": 0.041701,
+  "sdf_written_crystal_max_deviation_A": 1e-06,
+  "stereochemistry_assigned": [
+    [
+      "C7",
+      "S"
+    ]
+  ],
+  "status": "reference ligand atom-mapped SDF completed; NOT redocked; protonation review and receptor PDBQT still pending",
+  "note": "Hydrogen positions are generated; experimental heavy-atom coordinates preserved. No force-field minimization applied to reference pose."
+}

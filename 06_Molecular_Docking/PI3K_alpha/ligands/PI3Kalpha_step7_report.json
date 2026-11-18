@@ -1,0 +1,17 @@
+{
+  "target": "PI3Kalpha",
+  "pdb_id": "4JPS",
+  "source_shortlist_filename": "master_docking_handover.csv",
+  "source_shortlist_sha256": "a4857ecc23125067f2c812cf0a64e27d65f236452ce57d504b18410f7959f5ac",
+  "selected_analog_count": 10,
+  "sdf_success_count": 10,
+  "pdbqt_success_count": 10,
+  "all_10_ready": true,
+  "method": "RDKit ETKDGv3 (8 conformers, deterministic seeds) + MMFF94; Meeko PDBQT preparation",
+  "caveats": [
+    "Ligand protonation and tautomer states require scientific review",
+    "A successful conversion does not validate ligand binding or docking",
+    "Retain Analog_ID when merging with model outputs"
+  ],
+  "next": "Dock ready compounds using exactly the receptor/grid/settings validated by Step 6"
+}
