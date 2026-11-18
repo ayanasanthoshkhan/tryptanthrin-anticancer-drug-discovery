@@ -1,0 +1,7 @@
+Analog_ID,orientation,donor,hydrogen,acceptor,donor_acceptor_A,hydrogen_acceptor_A,D_H_A_angle_deg,geometry_plausible
+TRY_c88335488290afb4,ligand_to_protein,UNL::1:N,UNL::1:H,ASP:A:933:OD1,3.217,3.146,84.87,False
+TRY_c88335488290afb4,ligand_to_protein,UNL::1:N,UNL::1:H,ASP:A:933:OD1,3.217,3.263,78.47,False
+TRY_c88335488290afb4,protein_to_ligand,TYR:A:836:OH,TYR:A:836:HH,UNL::1:O,2.985,3.628,43.22,False
+TRY_c6b27d68ce6ec718,ligand_to_protein,UNL::1:N,UNL::1:H,SER:A:854:O,3.074,2.212,141.8,True
+TRY_c6b27d68ce6ec718,protein_to_ligand,VAL:A:851:N,VAL:A:851:H,UNL::1:O,3.12,2.295,136.1,True
+TRY_c6b27d68ce6ec718,protein_to_ligand,SER:A:854:OG,SER:A:854:HG,UNL::1:O,3.354,3.107,95.71,False
