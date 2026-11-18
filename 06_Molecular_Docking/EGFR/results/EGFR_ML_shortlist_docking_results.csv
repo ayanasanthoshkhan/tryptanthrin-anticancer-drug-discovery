@@ -1,0 +1,11 @@
+Analog_ID,Status,Best_affinity_kcal_mol,Time_seconds,Output_file
+TRY_01fe40c9b5aea27c,SUCCESS,-8.669,77.89,EGFR_Docking/ligands/EGFR_ML_shortlist/docked/TRY_01fe40c9b5aea27c_docked.pdbqt
+TRY_0268c2efe76f90a9,SUCCESS,-9.098,69.56,EGFR_Docking/ligands/EGFR_ML_shortlist/docked/TRY_0268c2efe76f90a9_docked.pdbqt
+TRY_0328953f8b3ac4a0,SUCCESS,-8.256,70.23,EGFR_Docking/ligands/EGFR_ML_shortlist/docked/TRY_0328953f8b3ac4a0_docked.pdbqt
+TRY_2327d14018ee1ca2,SUCCESS,-9.014,75.51,EGFR_Docking/ligands/EGFR_ML_shortlist/docked/TRY_2327d14018ee1ca2_docked.pdbqt
+TRY_2632ae4667cd5093,SUCCESS,-8.634,44.16,EGFR_Docking/ligands/EGFR_ML_shortlist/docked/TRY_2632ae4667cd5093_docked.pdbqt
+TRY_4abc3bf0799ed766,SUCCESS,-9.052,108.76,EGFR_Docking/ligands/EGFR_ML_shortlist/docked/TRY_4abc3bf0799ed766_docked.pdbqt
+TRY_51906f2bc26ac156,SUCCESS,-8.802,87.78,EGFR_Docking/ligands/EGFR_ML_shortlist/docked/TRY_51906f2bc26ac156_docked.pdbqt
+TRY_97b89eb811badd69,SUCCESS,-9.075,110.8,EGFR_Docking/ligands/EGFR_ML_shortlist/docked/TRY_97b89eb811badd69_docked.pdbqt
+TRY_d75d8cfc4947cbd8,SUCCESS,-9.278,70.06,EGFR_Docking/ligands/EGFR_ML_shortlist/docked/TRY_d75d8cfc4947cbd8_docked.pdbqt
+TRY_fed8d7044fa845ad,SUCCESS,-8.92,90.08,EGFR_Docking/ligands/EGFR_ML_shortlist/docked/TRY_fed8d7044fa845ad_docked.pdbqt

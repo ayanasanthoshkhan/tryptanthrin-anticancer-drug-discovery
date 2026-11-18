@@ -1,0 +1,4 @@
+Analog_ID,Ligand_atom,Protein_atom,Residue,Residue_number,Distance_A
+TRY_d75d8cfc4947cbd8,C,CB,ALA,719,3.98
+TRY_0268c2efe76f90a9,C,CB,LEU,694,3.89
+TRY_97b89eb811badd69,C,CD2,LEU,694,3.82
