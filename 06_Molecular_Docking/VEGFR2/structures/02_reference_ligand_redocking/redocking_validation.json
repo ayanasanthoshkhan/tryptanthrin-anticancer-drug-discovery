@@ -1,0 +1,9 @@
+{
+  "ligand": "42Q",
+  "rmsd_model1": 0.55,
+  "rmsd_best_of_modes": 0.55,
+  "best_mode": 1,
+  "vina_model1": -12.722,
+  "cutoff": 2.0,
+  "passed": true
+}
